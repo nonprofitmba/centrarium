@@ -34,6 +34,9 @@ paginate_path: "/page:num/"
 #     category: '/category/:name/'
 #     tag: '/tag/:name/'
 
+# Mailchimp
+mailchimp: true
+
 # Disqus comments
 disqus_shortname: npman
 
