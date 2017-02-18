@@ -12,4 +12,5 @@ In order to do my best work as a nonprofit Executive Director, I am commited to 
 I am going to collect this material, organize it and share it with you as I go. I hope this information is useful to you.
 
 Please [subscribe][mailchimp] to receive updates.
+
 [mailchimp]: http://eepurl.com/cCHplb
