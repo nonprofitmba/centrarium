@@ -12,7 +12,7 @@ subtitle: "Resources for the Effective Nonprofit Manager"
 email: jp@nonprofit.mba
 name: JP Molina
 description: > 
-  Resources and applicable knowledge for nonprofit managers
+  Useful knowledge and resources for nonprofit managers
 baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
 url: "http://nonprofitmba.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
