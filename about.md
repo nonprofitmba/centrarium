@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/logo.png">
+<img src="{{ site.baseurl }}/assets/logo.png" class="profile">
 
 ## Welcome to The Nonprofit MBA
 I run a nonprofit organization, just like you do.
