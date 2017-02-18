@@ -17,6 +17,7 @@ baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
 url: "http://nonprofitmba.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
+author: JP Molina
 
 # Build settings
 markdown: kramdown
