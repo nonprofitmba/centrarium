@@ -85,6 +85,14 @@ layout: default
   {% endfor %}
 </section>
 
+{% if site.mailchimp %}
+{% unless page.mailchimp_disabled %}
+<section class="subscribe">
+	{% include subscribe.html %}	
+</section>
+{% endunless %}
+{% endif %}
+	
 {% if site.disqus_shortname %}
 {% unless page.disqus_disabled %}
 <section class="disqus">
