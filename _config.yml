@@ -34,8 +34,12 @@ paginate_path: "/page:num/"
 #     category: '/category/:name/'
 #     tag: '/tag/:name/'
 
-# Mailchimp
-mailchimp: true
+# Set to true the value of 'subscribe' if you have code for an embedded form 
+# from a subscription service like Mailchimp. Create a file with your embedding code
+# named "subscribe.html" and save it in _includes. Your form will appear in every post
+# after the rss and share sections, except in posts where subscribe_disabled: true 
+# is in the front matter.
+subscribe: true
 
 # Disqus comments
 disqus_shortname:
