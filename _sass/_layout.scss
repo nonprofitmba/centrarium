@@ -292,6 +292,9 @@ pre code.hljs {
 				text-decoration: none;
 			}
 		}
+		.subscribe {
+			clear:left; 
+		}
 		.disqus {
 			@include span-columns(12);
 		}
