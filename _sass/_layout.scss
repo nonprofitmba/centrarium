@@ -293,7 +293,7 @@ pre code.hljs {
 			}
 		}
 		.subscribe {
-			@include outer-container;
+			clear: both;
 		}
 		.disqus {
 			@include span-columns(12);
