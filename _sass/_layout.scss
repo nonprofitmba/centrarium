@@ -294,6 +294,7 @@ pre code.hljs {
 		}
 		.subscribe {
 			clear:left; 
+			@include outer-container;
 		}
 		.disqus {
 			@include span-columns(12);
