@@ -9,7 +9,6 @@ As part of my self-education efforts as a nonprofit manager, I have looked for t
 
 Today, I came across two blog posts related to the subject. 
 
-[Is fundraising the same thing as sales?, by Sasha Dichter][https://sashadichter.wordpress.com/]
+[Is fundraising the same thing as sales?, by Sasha Dichter](https://sashadichter.wordpress.com/)
 
-[Fundraising is not selling][http://www.jennifermccrea.com/fundraising-selling-5/] 
-
+[Fundraising is not selling](http://www.jennifermccrea.com/fundraising-selling-5/)
