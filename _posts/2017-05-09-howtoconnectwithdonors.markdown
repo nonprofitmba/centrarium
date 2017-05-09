@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Thomas Wolf How to Connect with Donors"
+title: "How to Connect with Donors - Thomas Wolf "
 categories: books
 tags:	fundraising, development, donors
 ---
+#  10 useful ideas from "How to Connect with Donors and Double the Money You Raise" by Thomas Wolf
 
 I read books and other materials on nonprofit management because I believe that continuing self-education is the most powerful tool I (and you) have as a nonprofit manager.  I extract fundamental concepts from these books and use them to build my daily practice.  I also find effective practices that I share with my team and implement in my organization.  
 
 These are the most useful ideas I found in the book "How to Connect with Donors and Double the Money you Raise" by Thomas Wolf.
-
+<fieldset>
 [Thomas Wolf](http://wolfbrown.com/people/dr-thomas-wolf) is a nationally (U.S.) recognized nonprofit expert, author and professor.  He has had a long career in philanthropy, education and the arts.  He holds a doctorate in education from Harvard.  He is the author of several [books related to nonprofits](https://www.amazon.com/Thomas-Wolf/e/B001I7XT8O/ref=sr_ntt_srch_lnk_4?qid=1494346573&sr=8-4).  Currently, he is an instructor of an online course on fundraising at the [Philanthropy University](http://philanthropyu.org/).
-
-#  10 useful ideas from "How to Connect with Donors and Double the Money You Raise" by Thomas Wolf
+</fieldset>
 
 ## 1. Find out what connects your donor to your nonprofit
 
