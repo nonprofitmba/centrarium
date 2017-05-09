@@ -10,8 +10,9 @@ I read books and other materials on nonprofit management because I believe that 
 
 These are the most useful ideas I found in the book "How to Connect with Donors and Double the Money you Raise" by Thomas Wolf.
 <fieldset>
-[Thomas Wolf](http://wolfbrown.com/people/dr-thomas-wolf) is a nationally (U.S.) recognized nonprofit expert, author and professor.  He has had a long career in philanthropy, education and the arts.  He holds a doctorate in education from Harvard.  He is the author of several [books related to nonprofits](https://www.amazon.com/Thomas-Wolf/e/B001I7XT8O/ref=sr_ntt_srch_lnk_4?qid=1494346573&sr=8-4).  Currently, he is an instructor of an online course on fundraising at the [Philanthropy University](http://philanthropyu.org/).
+<a href="http://wolfbrown.com/people/dr-thomas-wolf">Thomas Wolf</a> is a nationally (U.S.) recognized nonprofit expert, author and professor.  He has had a long career in philanthropy, education and the arts.  He holds a doctorate in education from Harvard.  He is the author of several <a href="https://www.amazon.com/Thomas-Wolf/e/B001I7XT8O/ref=sr_ntt_srch_lnk_4?qid=1494346573&sr=8-4">books related to nonprofits</a>.  Currently, he is an instructor of an online course on fundraising at the <a href="http://philanthropyu.org/">Philanthropy University</a>.
 </fieldset>
+
 
 ## 1. Find out what connects your donor to your nonprofit
 
@@ -19,11 +20,13 @@ These are the most useful ideas I found in the book "How to Connect with Donors 
 
 Find ways to make potential donors members of your nonprofit's family.  Find a connection between their personal life and your organization, the work it does, the population it serves, or how it does the work.  Create opportunities for potential donors to volunteer and/or live experiences where she can develop that personal connection.  Allow the personal connection to develop and become strong *before* you ask for a donation to your nonprofit. 
 
+
 ## 2. Listen with empathy
 
 **Your donors and prospects are people.  They want to be listened to.  They want their interests and experiences to be relevant.  If you are interested in them, they will appreciate you.**  
 
 When talking to a prospect - especially when it is the first time you talk to her - make sure that you make that conversation about them, not you.  Ask her questions about herself, learn about who she is, what she cares about, and *why* she cares.
+
 
 ## 3. Learn what *they* need
 
@@ -31,11 +34,13 @@ When you are talking to a prospect or donor, look for instances in the conversat
 
 **Listen and learn about her issues.  Then ask yourself, how can you solve *her* problem?**
 
+
 ## 4. Qualify your prospects
 
 **Investing time in gathering information about prospective donors is an essential and effective strategy to advance your nonprofit's fundraising efforts.** The catch is that it requires a delay of gratification and patience.
 
 Collect information about the philanthropic preferences and interests of prospective donors, their capacity to give, their disposition to give to your mission, and possible opportunities to develop a personal connection with your organization. 
+
 
 ## 5. Can you play the long-game?
 
@@ -43,11 +48,13 @@ Collect information about the philanthropic preferences and interests of prospec
 
 How much in a hurry are you? Are you willing to play the long game?  Your patience will pay off in long-lasting loyal donors.    
 
+
 ## 6. How to avoid straining a relationship with an ask
 
 On occasions, you will be pressured for fundraising results.  This sense of urgency can precipitate aggressive approaches like asking for gifts from friends, family or prospects that are not ready to be asked yet.  Avoid these forced asks.  They may cause serious damage to your relationships, which are far more valuable in the long run.
 
 **When under this type of pressure, instead of asking these people for donations, ask them for information about potential donors that you could approach in the short-term.**  You will be protecting - and building - your relationships. 
+
 
 ## 7. Thank early and thank often
 
@@ -59,11 +66,13 @@ Thank you notes are the most valued vehicle for this.  But you can choose other 
 
 Regardless of what medium you chose to say thanks, your appreciation will be most effective when it is personal and heartfelt. 
 
+
 ## 8. Find out why they stopped
 
 **We all have active donors who chose to stop giving at some point.  Find out why.**  Send out a communication asking for feedback on where you can improve.  Use a survey letter, an email or a phone call to collect this information.  
 
 You can do this a couple of months before your fiscal year ends. Some of the donors you survey will send a gift prompted by your survey.
+
 
 ## 9. Donors don't owe you 
 
@@ -72,6 +81,7 @@ It is natural to feel frustrated, disappointed and even angry when your ask is d
 It is very important that you don't let those feelings drive your reaction to your donor.  
 
 **If you feel frustrated by a negative response to an ask, you are probably thinking that she *should* give.  The truth is that she doesn't have to.**  Keep in mind that giving is a personal choice for the donor.  The donor doesn't actually owe you - or your organization - anything, it is her investment decision to make.   Donors will give when and how they want to.  
+
 
 ## 10. What to do when they say no
 
