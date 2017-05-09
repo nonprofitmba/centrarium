@@ -57,6 +57,9 @@ descriptions:
 
   - cat: notes
     desc: "A collection of snippets of knowledge to build on."
+    
+  - cat: books
+    desc: "The most important ideas in key books for nonprofit managers."
 
 # Social icons and sharing options
 #
