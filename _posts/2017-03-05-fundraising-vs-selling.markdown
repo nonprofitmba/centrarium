@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fundraising vs. Selling"
-categories: note
+categories: notes
 tags: fundraising
 ---
 
