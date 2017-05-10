@@ -4,8 +4,6 @@ title: "How to Connect with Donors - Thomas Wolf "
 categories: books
 tags:	fundraising, development, donors
 ---
-# How to Connect with Donors - Thomas Wolf
-
 <fieldset><p>I read books and other materials on nonprofit management because I believe that continuing self-education is the most powerful tool I (and you) have as a nonprofit manager.  I extract fundamental concepts from these books and use them to build my daily practice.  I also find effective practices that I share with my team and implement in my organization.</p></fieldset>
 
 ### About Thomas Wolf
