@@ -42,7 +42,7 @@ paginate_path: "/page:num/"
 subscribe: true
 
 # Disqus comments
-disqus_shortname:
+disqus_shortname: jpmolinaberriz
 
 # Google analytics
 ga_tracking_id: "UA-76474260-1"
