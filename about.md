@@ -16,3 +16,7 @@ I am going to collect this material, organize it and share it with you as I go. 
 Please [subscribe][mailchimp] to receive updates.
 
 [mailchimp]: http://eepurl.com/cCHplb
+
+<section class="subscribe">
+	{% include subscribe.html %}	
+</section>
