@@ -1,4 +1,5 @@
 ---
+permalink: "/howtoconnectwithdonors"
 layout: post
 title: "How to Connect with Donors - Thomas Wolf "
 categories: books
