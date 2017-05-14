@@ -17,19 +17,19 @@ These are the most useful ideas I found in the book "How to Connect with Donors 
 
 **People give money to nonprofits for personal reasons.**  If they don't have a personal reason to give, then they don't.  Being aware of this precondition allows you to plan and prepare accordingly.  
 
-Find ways to make potential donors members of your nonprofit's family.  Find a connection between their personal life and your organization, the work it does, the population it serves, or how it does the work.  Create opportunities for potential donors to volunteer and/or live experiences where she can develop that personal connection.  Allow the personal connection to develop and become strong *before* you ask for a donation to your nonprofit. 
+Find ways to make potential donors members of your nonprofit's family.  Find a connection between their personal life and your organization, the work it does, the population it serves, or how it does the work.  Create opportunities for potential donors to volunteer and/or live experiences where they can develop that personal connection.  Allow the personal connection to grow and become strong *before* you ask for a donation to your nonprofit. 
 
 ## 2. Listen with empathy
 
-**Your donors and prospects are people.  They want to be listened to.  They want their interests and experiences to be relevant.  If you are interested in them, they will appreciate you.**  
+**Your donors and prospective donors are people.  They want to be listened to.  They want their interests and experiences to be relevant.  If you are interested in them, they will appreciate you.**  
 
-When talking to a prospect - especially when it is the first time you talk to her - make sure that you make that conversation about them, not you.  Ask her questions about herself, learn about who she is, what she cares about, and *why* she cares.
+When talking to a prospective donor - especially when it is the first time you talk to them - make sure that you make that conversation about them, not you.  Ask them questions about themselves, learn about who they are, what they care about, and *why* they care.
 
 ## 3. Learn what *they* need
 
-When you are talking to a prospect or donor, look for instances in the conversation where she mentions a problem or a need that *she* may have that *you* could solve.  Often, this is the opposite mindset that a fundraiser has when engaging with a prospect, which leads to talking more about ourselves and our organizations than listening to the prospect.
+When you are talking to a prospective donor, look for instances in the conversation where they mention a problem or a need that *they* may have that *you* could solve.  Often, this is the opposite mindset that a fundraiser has when engaging with a prospective donor, which leads to talking more about ourselves and our organizations than actually listening to the prospective donor.
 
-**Listen and learn about her issues.  Then ask yourself, how can you solve *her* problem?**
+**Listen and learn about their issues, then ask yourself, how can you solve *their* problem?**
 
 ## 4. Qualify your prospects
 
@@ -43,15 +43,15 @@ Collect information about the philanthropic preferences and interests of prospec
 
 How much in a hurry are you? Are you willing to play the long game?  Your patience will pay off in long-lasting loyal donors.    
 
-## 6. How to avoid straining a relationship with an ask
+## 6. How to avoid straining a relationship with an "ask"
 
-On occasions, you will be pressured for fundraising results.  This sense of urgency can precipitate aggressive approaches like asking for gifts from friends, family or prospects that are not ready to be asked yet.  Avoid these forced asks.  They may cause serious damage to your relationships, which are far more valuable in the long run.
+On occasions, you will be pressured for fundraising results.  This sense of urgency can precipitate aggressive approaches like asking for gifts from friends, family or prospects that are not ready to be asked yet.  Avoid these forced *asks*.  They may cause serious damage to your relationships, which are far more valuable in the long run.
 
 **When under this type of pressure, instead of asking these people for donations, ask them for information about potential donors that you could approach in the short-term.**  You will be protecting - and building - your relationships. 
 
 ## 7. Thank early and thank often
 
-**The most powerful thing you can give your donor in return for her gift is your sincere recognition and appreciation for her support.**  The earlier you express your appreciation, the better
+**The most powerful thing you can give your donor in return for their gift is your sincere recognition and appreciation for their support.**  The earlier you express your appreciation, the better
 
 At the same time, the worst crime you can commit is not thanking a donor for their gift at all.  An unrecognized donor is likely to stop giving to your nonprofit.  
 
@@ -65,20 +65,20 @@ Regardless of what medium you chose to say thanks, your appreciation will be mos
 
 You can do this a couple of months before your fiscal year ends. Some of the donors you survey will send a gift prompted by your survey.
 
-## 9. Donors don't owe you 
+## 9. Donors don't owe you
 
-It is natural to feel frustrated, disappointed and even angry when your ask is denied by a donor.  A donor's negative response has an effect on your campaign, fundraising goals, and your ability to achieve your mission.  
+It is natural to feel frustrated, disappointed and even angry when your *ask* is denied by a donor.  A donor's negative response has an effect on your campaign, fundraising goals, and your ability to achieve your mission.  
 
 It is very important that you don't let those feelings drive your reaction to your donor.  
 
-**If you feel frustrated by a negative response to an ask, you are probably thinking that she *should* give.  The truth is that she doesn't have to.**  Keep in mind that giving is a personal choice for the donor.  The donor doesn't actually owe you - or your organization - anything, it is her investment decision to make.   Donors will give when and how they want to.  
+**If you feel frustrated by a negative response to an *ask*, you are probably thinking that they *should* give.  The truth is that they don't have to.**  Keep in mind that giving is a personal choice for the donor.  The donor doesn't actually owe you - or your organization - anything, it is their investment decision to make.   Donors will give when and how they want to.  
 
-## 10. What to do when a donor say no
+## 10. What to do when a donor says no
 
 **Prepare yourself to react to a refusal to give from a donor. A good reaction requires staying calm and thinking quickly.**  
 
 Your goal should immediately switch from obtaining a gift to safeguarding your long-term relationship and retaining the donor.  It is best to interpret a donor's turn-down as a temporary setback.  
 
-Do not insist on the ask.  Instead, collect information.  
+Do not insist on the *ask*.  Instead, collect information.  
 
-Identify the donor's barriers to giving.  Don't make assumptions about why they refused to give.  Find out why she is choosing to say no.  Is it not a good time for her to give, is your ask too high, does she not feel connected to your nonprofit, or she not interested in funding the program or project that you are asking funds for?  These barriers can be overcome by negotiating when, how much and what they give for, or by giving the donor more information about your program. 
+Identify the donor's barriers to giving.  Don't make assumptions about why they refused to give.  Find out why they chose to say no.  Is it not a good time for them to give? Is your *ask* too high? Do they not feel connected to your nonprofit? or, are they not interested in funding the program or project that you are asking funds for?  These barriers can be overcome by negotiating when, how much and what they give for, or by giving the donor more information about your program. 
