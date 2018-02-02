@@ -42,7 +42,7 @@ paginate_path: "/page:num/"
 subscribe: true
 
 # Disqus comments
-disqus_shortname: npman
+# disqus_shortname: npman
 
 # Google analytics
 ga_tracking_id: "UA-76474260-1"
