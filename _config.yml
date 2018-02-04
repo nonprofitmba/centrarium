@@ -186,6 +186,6 @@ protocols:
 
     twitter_image: "assets/logo.png"
 
-    os_repo: "https://github.com/nonprofitmba/centrarium"
+    os_repo: "https://github.com/nonprofitmba/npmba"
     os_rcs_type: "git"
-    os_src: "git@github.com:nonprofitmba/centrarium.git"
+    os_src: "git@github.com:nonprofitmba/npmba.git"
