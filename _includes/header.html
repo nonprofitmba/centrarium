@@ -15,7 +15,7 @@
 				<li class="nav-link"><a href="http://eepurl.com/cCHplb">Subscribe</a></li>
       	{% for page in site.pages %}
           {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url | remove_first: '/' | prepend: site.baseurl }}">{{ page.title }}</a>
+          <li class="nav-link"><a href="{{ remove_first: '/' | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
       </ul>
